@@ -1,19 +1,42 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Armando Trapaga"
+image: "cuervo_negro.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/ArmandoTrapaga/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "aggonzal@lcg.unam.mx"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
- 
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+
+# **Professional Description**
+
+**Name:** Armando Gael Gonzalez Trapaga
+
+## **Professional Profile**
+
+I am a dynamic and energetic professional with a unique ability to tackle challenges creatively and efficiently. With a vibrant and enthusiastic personality. I injects energy into every project i lead, motivating my team and creating a positive, collaborative work environment.
+
+Despite my slightly chaotic nature, i excel in quickly adapting to change and unforeseen situations, finding innovative and effective solutions. My proactive approach and open mind allow me to address problems from different angles, ensuring successful outcomes.
+
+### **Key Skills**
+
+- **Creativity and Innovation:** Generates fresh and original ideas to solve complex problems.
+- **Leadership:** Motivates and guides his team with passion and determination.
+- **Adaptability:** Quickly adapts to new environments and challenges.
+- **Effective Communication:** Clearly and persuasively conveys ideas and concepts.
+- **Time Management:** Able to prioritize tasks and meet tight deadlines despite his unconventional approach.
+
+### **Professional Experience**
+
+- **FreyreLab** *(2023 - Present)*  
+  I am working as a co-author on the development of a tool specialized in the mass download of microarray data
+  
+### **Education**
+
+- **High School Diploma, Colegio Mentes de Oca**  
+- **Currently Pursuing a Bachelor's Degree in Genomic Sciences, National Autonomous University of Mexico (UNAM)**
+
+
+
